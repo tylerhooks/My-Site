@@ -302,9 +302,9 @@ you can use the generic selector below, but it's slower:
 .icon-aperture:before {
 	content: "\e056";
 }
-.icon-quote:before {
+/*.icon-quote:before {
 	content: "\e057";
-}
+}*/
 .icon-scope:before {
 	content: "\e058";
 }
